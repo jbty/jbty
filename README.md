@@ -6,15 +6,11 @@ My name is Jean-Baptiste THERY, freelance frontend developer specializing in Jav
 
 ### 🔥 "If I can dream it, I can do it" 🔥
 
-I'm not just looking to work, I'm looking to get involved in your projects, I have a real need for accomplishment and professionally, nothing motivates me more than creating things through my passion for code.
+Passionate JavaScript / Typescript developer, I specialize in the development of Web and Mobile frontend applications with Vue Js and Node Js.
 
-I specialized in **Javascript / Typescript** development and more specifically frontend development with **Vue.js**, I also like to do backend, I regularly use **Node js** with Express or Strapi.
+Proactivity, listening, humility and communication are for me the keys to a successful collaboration. I have a strong need for accomplishment that I live through my passion, the code. Therefore I am not looking to work, I am looking to invest myself in the success of your projects.
 
-I am interested in all types of projects related to my frontend skills. Eternal apprentice, I am always in search of improvement and new things to learn.
-
-I prefer full remote missions but I can travel to Paris, Montpellier and Béziers.
-
-Listening, humility and communication are for me the keys to a successful collaboration, and I work on myself every day to apply these virtues to what I do.
+Available for remote freelance assignments anywhere in France, or in Béziers and Montpellier.
 
 ## Contacts
 
