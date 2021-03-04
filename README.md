@@ -10,7 +10,7 @@ Passionate JavaScript / Typescript developer, I specialize in the development of
 
 Proactivity, listening, humility and communication are for me the keys to a successful collaboration. I have a strong need for accomplishment that I live through my passion, the code. Therefore I am not looking to work, I am looking to invest myself in the success of your projects.
 
-Available for remote freelance assignments anywhere in France, or in Béziers and Montpellier.
+Available for freelance missions, only full remote in mainland France and overseas (Dom Tom).
 
 ## Contacts
 
